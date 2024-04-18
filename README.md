@@ -3,5 +3,5 @@ In this repository, I design and implement a static analysis tool within  Java t
 
 
 Kennesaw State University
-CS 8050: Principles Of Software Design and Programming Languages
+CS 8050: Principles of Software Design and Programming Languages
 
